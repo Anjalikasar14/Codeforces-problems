@@ -14,9 +14,9 @@ int main(){
   }
 
   if(arr[0]==1){
-    cout<<"YES";
+    cout<<"YES\n";
   } else{
-    cout<<"NO";
+    cout<<"NO\n";
   }
 }
 }
