@@ -22,9 +22,9 @@ int main(){
   }
 
   if(found){
-    cout<<"YES";
+    cout<<"YES\n";
   }else{
-    cout<<"NO";
+    cout<<"NO\n";
   }
 
   }
